@@ -1,16 +1,13 @@
-## Hi there 👋
+### 𝐑𝐉 🌊 Based in Rio
+---
+Programming - Design - Web Design - Music - Art
 
-<!--
-**billabong93/billabong93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`html` - `php` - `css` - `python` - `perl`
 
-Here are some ideas to get you started:
+`Photoshop` - `Illustrator` - `FL Studio` - `Traktor` - `Rekordbox`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img alt="Static Badge" src="https://img.shields.io/badge/bosca.art-E4405F?style=flat&logo=instagram&logoColor=white">](https://www.instagram.com/bosca.art/)
+[<img alt="Static Badge" src="https://img.shields.io/badge/soundcloud-FF5500?style=flat&logo=soundcloud&logoColor=white">](https://soundcloud.com/boscajuan)
+
+
+
