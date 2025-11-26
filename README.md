@@ -1,4 +1,4 @@
-### 𝐑𝐉 🌊 Based in Rio
+### 🌊 Based in Rio
 ---
 Programming - Design - Web Design - Music - Art
 
